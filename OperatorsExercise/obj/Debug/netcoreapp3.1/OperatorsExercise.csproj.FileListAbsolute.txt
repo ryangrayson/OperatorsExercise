@@ -1,0 +1,12 @@
+/Users/ryangrayson/Repos/OperatorsExercise/OperatorsExercise/bin/Debug/netcoreapp3.1/OperatorsExercise.deps.json
+/Users/ryangrayson/Repos/OperatorsExercise/OperatorsExercise/bin/Debug/netcoreapp3.1/OperatorsExercise.runtimeconfig.json
+/Users/ryangrayson/Repos/OperatorsExercise/OperatorsExercise/bin/Debug/netcoreapp3.1/OperatorsExercise.runtimeconfig.dev.json
+/Users/ryangrayson/Repos/OperatorsExercise/OperatorsExercise/bin/Debug/netcoreapp3.1/OperatorsExercise.dll
+/Users/ryangrayson/Repos/OperatorsExercise/OperatorsExercise/bin/Debug/netcoreapp3.1/OperatorsExercise.pdb
+/Users/ryangrayson/Repos/OperatorsExercise/OperatorsExercise/obj/Debug/netcoreapp3.1/OperatorsExercise.csprojAssemblyReference.cache
+/Users/ryangrayson/Repos/OperatorsExercise/OperatorsExercise/obj/Debug/netcoreapp3.1/OperatorsExercise.AssemblyInfoInputs.cache
+/Users/ryangrayson/Repos/OperatorsExercise/OperatorsExercise/obj/Debug/netcoreapp3.1/OperatorsExercise.AssemblyInfo.cs
+/Users/ryangrayson/Repos/OperatorsExercise/OperatorsExercise/obj/Debug/netcoreapp3.1/OperatorsExercise.csproj.CoreCompileInputs.cache
+/Users/ryangrayson/Repos/OperatorsExercise/OperatorsExercise/obj/Debug/netcoreapp3.1/OperatorsExercise.dll
+/Users/ryangrayson/Repos/OperatorsExercise/OperatorsExercise/obj/Debug/netcoreapp3.1/OperatorsExercise.pdb
+/Users/ryangrayson/Repos/OperatorsExercise/OperatorsExercise/obj/Debug/netcoreapp3.1/OperatorsExercise.genruntimeconfig.cache
